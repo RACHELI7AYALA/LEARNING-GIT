@@ -1,7 +1,5 @@
 function addedBy() {
-    console.log("addedByHow-to-merge")
+    console.log("addedByMain")
 }
 
-function addedByHowToMerge() {
-    console.log("addedByHow-to-merge")
-}
+
